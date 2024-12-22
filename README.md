@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+this is the command to copy and use it for a new template
+npx create-next-app [projectName] --example https://github.com/hmweb77/AI-template
 First, run the development server:
 
 ```bash
